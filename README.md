@@ -31,6 +31,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcreatorishere&show_icons=true&locale=en&layout=compact" alt="webcreatorishere" /></p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/WebCreatorishere/WebCreatorishere/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
