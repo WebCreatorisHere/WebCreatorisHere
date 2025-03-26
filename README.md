@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yash Dwivedi</h1>
 <h3 align="center">A Passionate Fullstack Web developer from India</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/WebCreatorisHere/WebCreatorisHere)
+- 🔭 I had recently completed [My Portfolio](https://github.com/WebCreatorisHere/WebCreatorisHere)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently building projects using **Next.js**
 
 - 🤝 I’m looking for **Paying Projects**
 
